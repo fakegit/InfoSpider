@@ -204,14 +204,6 @@ INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱，旨在安�
   <img src="https://contributors-img.web.app/image?repo=kangvcar/infospider" />
 </a>
 
-### Sponsors
-
-#### Swiftproxy
-
-<a href="https://www.swiftproxy.net/?ref=kangvcar" target="_blank">
-  <img src="https://pic1.imgdb.cn/item/6822ff7b58cb8da5c8f0186b.png" style="width:40%;" alt="Swiftproxy">
-</a>
-
 ### License
 GPL-3.0
 
